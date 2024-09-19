@@ -1,2 +1,2 @@
 # Website
-Rough website for The Odin Project web dev course
+Website project to learn and practice The Odin Project web dev course
